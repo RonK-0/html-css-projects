@@ -1143,7 +1143,7 @@ section:first-of-type{
     color: var(--clr-dark);
     background-color: var(--clr-semilight);
 }
-.contactus .container .contactus__wrapper{
+.contactus .contactus__wrapper{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
