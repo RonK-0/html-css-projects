@@ -993,9 +993,6 @@ section:first-of-type{
     text-align: justify;
     line-height: 2.5rem;
 }
-/* .updatesBanner .container .updatesBanner__wrapper .updatesBanner__right{
-    min-width: 28rem;
-} */
 .updatesBanner .container .updatesBanner__wrapper .updatesBanner__right img{
     /* min-width: 30rem; */
     min-width: 35vh;
@@ -1015,6 +1012,9 @@ section:first-of-type{
     }
     .updatesBanner .container .updatesBanner__wrapper .updatesBanner__right{
         order: -1;
+    }
+    .updatesBanner .container .updatesBanner__wrapper .updatesBanner__right img{
+        min-width: 15rem;
     }
 }
 
